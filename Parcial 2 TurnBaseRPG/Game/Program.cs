@@ -13,7 +13,7 @@ namespace Game
             {
                 Engine.Clear();
                 Engine.Draw("ship.png");
-                Engine.Show();
+                Engine.Show();//xxxxxxxxxxxxxxxxxxxxxxxd
             }
         }
     }
